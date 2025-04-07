@@ -49,7 +49,6 @@ def write_hash_to_file(hash_value, filename="hash.email"):
     # 3. Close the file
     with open (filename, "w") as file:
         file.write(hash_value)
-    pass
 
 def main():
     """
