@@ -49,11 +49,10 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+- I'm Maya, and I'm a 1st year student in the HDS Masters program
+- Hoping to strengthen my python & data science skills so I can more comfortably work on independent projects in python in the future and be prepared for technical job interviews. 
+- PyTorch, ML algorithms in Python, Scikitlearn
+- Musical recommendation: [musical recommendation spotify link!](https://open.spotify.com/track/7t2Tfi4xtdSNfDb7A9TMsS)
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
